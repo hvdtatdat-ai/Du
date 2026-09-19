@@ -1,0 +1,6 @@
+{
+  "name": "Notes",
+  "description": "A sleek Material Design 3 Notes and Lists application with warm dark theme, smooth search, notes and checklist management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
